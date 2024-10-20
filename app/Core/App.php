@@ -8,6 +8,6 @@ class App
     {
         var_dump($this->name);
 
-        echo 'Hello, World!';;
+        echo 'Hello, World!';
     }
 }
